@@ -25,7 +25,7 @@
     "prosConsSubtitle": "Nothing!!!!",
     "popupMessage": "Please accept me again… \n No refunds on husbands",
     "popupSubtitle": "That's the best decision you've ever made ❤️😘",
-    "AllGiftText": ["Yayyyy!! You opened all the gifts!","LOVE YOU SO MUCH Mrs.!❤️ 😘  "]
+    "AllGiftText": ["Yayyyy!! You opened all the gifts!","LOVE YOU SO MUCH Bumblebee!❤️ 😘  "]
 
   },
   "media": {
@@ -55,7 +55,7 @@
     },
     {
       "image": "assets/couple_photo/FK.jpg", 
-      "caption": "She gave me an Uppah… but unknowingly, she gave me her heart too."
+      "caption": "Bumblebee gave me an Uppah… but unknowingly, she gave me her heart too."
     },
     {
       "image": "assets/couple_photo/Lift.jpg",
@@ -116,7 +116,7 @@
       "duration": "3:23", 
       "album": "Believer",
       "artist": "Imagine Dragons",
-      "cover": "assets/album-covers/pyaar-prema-kaadhal.jpg",
+      "cover": "assets/album-covers/believer.jpg",
       "audio": "assets/songs/Believer.mp3"
     },
     {
@@ -134,7 +134,7 @@
       "duration": "4:23",
       "album": "Recovery",
       "artist": "Eminem, Rihanna",
-      "cover": "assets/album-covers/sita-ramam.jpg",
+      "cover": "assets/album-covers/Em.jpg",
       "audio": "assets/songs/Love The Way You Lie.mp3"
     },
     {
@@ -179,3 +179,4 @@
   }
 
 }
+
