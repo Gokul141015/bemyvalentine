@@ -50,27 +50,27 @@
   },
   "couplePhotos": [
     {
-      "image": "assets/couple_photo/Holds my name well.jpg",
+      "image": "assets/couple_photo/Holds my name well.jpeg",
       "caption": "The day my ordinary life met its miracle."
     },
     {
-      "image": "assets/couple_photo/FK.jpg", 
+      "image": "assets/couple_photo/FK.jpeg", 
       "caption": "Bumblebee gave me an Uppah… but unknowingly, she gave me her heart too."
     },
     {
-      "image": "assets/couple_photo/Lift.jpg",
+      "image": "assets/couple_photo/Lift.jpeg",
       "caption": "Proof that I got her... and that I probably need to work on my 'Cool guy' face."
     },
     {
-      "image": "assets/couple_photo/Sunshine.jpg",
+      "image": "assets/couple_photo/Sunshine.jpeg",
       "caption": "When sun kissed your whole face. The only sad thing is my lips are not big enough to do the same"
     },
     {
-      "image": "assets/couple_photo/Silly.jpg",
+      "image": "assets/couple_photo/Silly.jpeg",
       "caption": "10% romance. 90% whatever this is."
     },
     {
-      "image": "assets/couple_photo/Huggies.jpg",
+      "image": "assets/couple_photo/Huggies.jpeg",
       "caption": "With my Surya smile and your 'never-let-go' nappies, I'm sure our huggies will last forever."
     }
   ],
@@ -170,5 +170,6 @@
   }
 
 }
+
 
 
